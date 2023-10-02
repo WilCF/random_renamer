@@ -1,7 +1,3 @@
-Certainly! Here's a `README.md` for the script you've been provided:
-
----
-
 # File Renaming Script
 
 This script renames all files in the directory where the script is located, following a specific naming convention: a capital letter followed by a two-digit number, while preserving the original file extensions. The renamed files are then placed in a new folder named "new".
@@ -30,5 +26,3 @@ For example: `A01.txt`, `B35.jpg`, `Z99.docx`, etc.
 - Ensure you have the necessary permissions to read and write in the directory where the script is placed.
 
 ---
-
-You can save the above content to a file named `README.md` and place it in the same directory as your script. If you're using a platform like GitHub, the README will be automatically rendered and displayed on the repository's main page.
